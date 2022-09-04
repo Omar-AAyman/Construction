@@ -1,2 +1,2 @@
 # Online-Shopping
-The First Responsive Website Using only HTML, CSS
+The First Responsive Website Using only HTML, CSS Languages
