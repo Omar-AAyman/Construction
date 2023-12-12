@@ -18,7 +18,7 @@ html {
 #sec-1 {
   width: 100%;
   background: linear-gradient(rgba(0, 0, 0, 0.522), rgba(26, 21, 21, 0.7)),
-    url("images/banner.jpg") no-repeat center center/cover;
+    url("../Images/banner.jpg") no-repeat center center/cover;
 }
 #sec-1 > #head-1 {
   background-color: #ffcb0f;
@@ -230,7 +230,7 @@ html {
 #sec-3 {
   width: 100%;
   background: linear-gradient(rgba(8, 8, 30, 0.689), rgba(8, 8, 30, 0.689)),
-    url("../images/bg4.jpg") no-repeat center center/cover;
+    url("../Images/bg4.jpg") no-repeat center center/cover;
   margin-top: 1px;
 }
 #sec-3 > .container {
@@ -361,7 +361,7 @@ html {
 
 #sec-5 {
   background: linear-gradient(rgba(92, 92, 82, 0.771), rgba(97, 97, 86, 0.771)),
-    url("../images/bg2.jpg") no-repeat center center/cover;
+    url("../Images/bg2.jpg") no-repeat center center/cover;
 }
 #sec-5 > .container {
   display: flex;
@@ -434,7 +434,7 @@ html {
   margin-bottom: 0.5rem;
 }
 #sec-6 {
-  background: url("../images/bg3.jpg") no-repeat center center/cover;
+  background: url("../Images/bg3.jpg") no-repeat center center/cover;
 }
 
 #sec-6 > .container {
