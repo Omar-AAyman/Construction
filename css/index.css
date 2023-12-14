@@ -224,7 +224,7 @@ html {
 #sec-2 > .container > img {
   margin-left: auto;
   margin-right: auto;
-  width: 400px;
+  width: 380px;
 }
 
 #sec-3 {
@@ -309,7 +309,7 @@ html {
   font-weight: 700;
 }
 #sec-4 > .container #cards {
-  width: 400px;
+  /* width: 400px; */
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -392,6 +392,7 @@ html {
   margin-bottom: 3rem;
 }
 #sec-5 > .container > #btns a {
+  text-align: center;
   font-size: 0.6rem;
   margin-right: 1rem;
   text-decoration: none;
@@ -407,21 +408,27 @@ html {
 }
 
 #sec-5 > .container > #gallery {
-  width: 400px;
+  width: 380px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   margin-bottom: 2rem;
 }
 #sec-5 > .container > #gallery > img {
-  width: 400px;
+  width: 380px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 1rem;
+
+}
+#sec-5 > .container > #gallery > img:hover {
+  cursor: pointer;
+  transform: scale(1.1);
 }
 
+
 #sec-5 > .container > #gallery > div {
-  width: 400px;
+  width: 390px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -429,10 +436,16 @@ html {
   margin-right: auto;
 }
 #sec-5 > .container > #gallery > div img {
-  width: 190px;
+  width: 180px;
   height: 167px;
   margin-bottom: 0.5rem;
+  
 }
+#sec-5 > .container > #gallery > div img:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
 #sec-6 {
   background: url("../images/bg3.jpg") no-repeat center center/cover;
 }
