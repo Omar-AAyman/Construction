@@ -51,7 +51,7 @@ html {
 
 #sec-1 > #head-1 > .container > #icons a {
   color: #222222;
-  margin-left: 0.8rem;
+  margin-left: 0.4rem;
 }
 #sec-1 > #head-1 > .container > #icons a:hover {
   color: #8f8f8f;
@@ -224,7 +224,7 @@ html {
 #sec-2 > .container > img {
   margin-left: auto;
   margin-right: auto;
-  width: 380px;
+  width: 22rem;
 }
 
 #sec-3 {
@@ -408,14 +408,14 @@ html {
 }
 
 #sec-5 > .container > #gallery {
-  width: 380px;
+  width: 22rem;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   margin-bottom: 2rem;
 }
 #sec-5 > .container > #gallery > img {
-  width: 380px;
+width: 22rem;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 1rem;
@@ -428,7 +428,7 @@ html {
 
 
 #sec-5 > .container > #gallery > div {
-  width: 390px;
+  width: 22rem;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -436,7 +436,7 @@ html {
   margin-right: auto;
 }
 #sec-5 > .container > #gallery > div img {
-  width: 180px;
+  width: 10.5rem;
   height: 167px;
   margin-bottom: 0.5rem;
   
